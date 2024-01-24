@@ -5,6 +5,7 @@ Building a NBA Standings Data Pipeline in Google Cloud using Airflow
 From retrieving data via the API_NBA to crafting a dynamic Looker Studio dashboard, each phase contributes to the seamless flow of data for analysis and visualization.
 
 Architecture
+![Architecture](https://github.com/lakshyarawal/NBA_Rankings/assets/20071320/1b7fae6f-a165-4780-9f46-e53db6e5070d)
 
 **Data Retrieval with Python and API_NBA API**
 Python **requests** library is used to fetch the JSON.
